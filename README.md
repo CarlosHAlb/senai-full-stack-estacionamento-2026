@@ -30,7 +30,7 @@ Sistema de gerenciamento de estacionamento para cadastro de veículos e controle
 # Passo a passo
 - Clone e instale este repositório
 ```bash
-git clone https://github.com/MoniqueBabler/Atividade-Fork_Estacionamento.git
+git clone https://github.com/CarlosHAlb/Atividade-Fork_Estacionamento.git
 ```
 
 
